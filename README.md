@@ -67,7 +67,7 @@ I blend **modern web development** with **AI-driven problem solving**, creating 
 <a href="https://instagram.com/asadchowdhury2"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="35"/></a>
 </p>
 
----
+
 
 ## 📊 GitHub Stats (Neon Theme)
 <p align="center">
@@ -78,9 +78,7 @@ I blend **modern web development** with **AI-driven problem solving**, creating 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=asadchowdhury020&theme=tokyonight" height="180"/>
 </p>
-
 ---
-
 ## 🐍 Contribution Snake (Dark Mode)
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -91,3 +89,49 @@ I blend **modern web development** with **AI-driven problem solving**, creating 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asadchowdhury020&style=flat-square&color=brightgreen" />
 </p>
+
+----
+
+## Top Projects
+---
+# 🌿 UrbanCare - Community Cleanliness & Issue Reporting Portal
+
+**UrbanCare** is a full-stack **MERN** web app that lets users report, track, and resolve local cleanliness issues. It promotes community-driven participation for cleaner neighborhoods.
+
+---
+
+## 🌐 Live Site
+
+- **Client:** [Live Client](https://elaborate-florentine-d629eb.netlify.app/)  
+- **Server:** [Live Server](https://urban-care-server.vercel.app/)
+
+---
+
+## ✨ Key Features
+
+- Report garbage overflow, road damage, and illegal dumping  
+- Firebase Auth (Email & Google) for secure login  
+- Community contributions & PDF receipts  
+- Personalized dashboards: My Issues & My Contributions  
+- Dark/Light mode support  
+- MongoDB-powered real-time CRUD operations  
+- Responsive UI with Tailwind CSS & SweetAlert  
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:** React.js, Tailwind CSS, React Router, Firebase, Axios  
+**Backend:** Node.js, Express.js, MongoDB  
+**Hosting:** Firebase (Client) & Vercel (Server)  
+
+---
+
+## ⚙️ Setup Instructions
+
+1. Clone repos:
+   ```bash
+   git clone https://github.com/AsadChowdhury020/UrbanCare-Client.git
+   git clone https://github.com/AsadChowdhury020/UrbanCare-Server.git
+---
+
