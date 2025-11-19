@@ -78,7 +78,7 @@ I blend **modern web development** with **AI-driven problem solving**, creating 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=asadchowdhury020&theme=tokyonight" height="180"/>
 </p>
----
+
 ## 🐍 Contribution Snake (Dark Mode)
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -90,9 +90,9 @@ I blend **modern web development** with **AI-driven problem solving**, creating 
   <img src="https://komarev.com/ghpvc/?username=asadchowdhury020&style=flat-square&color=brightgreen" />
 </p>
 
-----
+---
 
-## Top Projects
+## Top Projects:
 ---
 # 🌿 UrbanCare - Community Cleanliness & Issue Reporting Portal
 
